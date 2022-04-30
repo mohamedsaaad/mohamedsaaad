@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-    <img src="https://badges.pufler.dev/years/lwx-amr" alt="Years Badge">
-    <img src="https://badges.pufler.dev/repos/lwx-amr" alt="Repos Badge"> 
+    <img src="https://badges.pufler.dev/years/mohamedsaaad" alt="Years Badge">
+    <img src="https://badges.pufler.dev/repos/mohamedsaaad" alt="Repos Badge"> 
 </div>
 <br>
 <br>
@@ -60,10 +60,12 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suleiman99Hesham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaaad&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 ## 📊 My Github Stats
+
 <br/>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats" align="center">
     <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedsaaad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
