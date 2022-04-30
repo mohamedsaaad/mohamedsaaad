@@ -56,9 +56,9 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<div align="center">   
-    <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaaad&layout=compact&theme=dracula"> 
-</div>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph">
+    <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohamedsaaad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
 
 
 # Projects
