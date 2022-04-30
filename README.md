@@ -21,22 +21,22 @@
 <br>
 
 <div  align=center>
-    <a href="https://www.linkedin.com/in/amrhussien98">
+    <a href="https://www.linkedin.com/in/mohamed-saad-eldeen-4435361a1/">
     	<img src="imgs/in.png" alt="linkedin badge" width="52px">
     </a>
-    <a href="https://leetcode.com/lwxamr">
+    <a href="https://leetcode.com/mohamed_saad-eldeen/">
     	<img src="imgs/leetcode.png" width="52px" alt="leetcode logo">
     </a>
-    <a href="https://www.hackerrank.com/lwx_amr">
+    <a href="https://www.hackerrank.com/mohamedsaaad16">
     	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="42px">
     </a>
-    <a href="mailto:amrister20@gmail.com">
+    <a href="mailto:mohamedsaaad16@gmail.com">
     	<img src="imgs/gmail.png" width="60px" alt="gmail mail">
     </a>
-    <a href="https://www.facebook.com/lwxamr">
+    <a href="https://www.facebook.com/mostafasaad.mostafasaad">
     	<img src="imgs/fb.png" alt="facebook logo" width="42px">
     </a>
-    <a href="https://www.instagram.com/amrhussien3">
+    <a href="https://www.instagram.com/mohamedsaad3598/?hl=en">
     	<img src="imgs/insta.png" width="42px" alt="instagram logo">
     </a>
 </div>
