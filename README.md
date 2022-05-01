@@ -77,11 +77,18 @@
 
 
 # Projects
-- ### Web:
-
-
-- ### Machine Learning:
-
+- ### Technology:
+    - [TasK-APP-REST-API](https://github.com/mohamedsaaad/TasK-APP-REST-API.git) - *Node.js | Express.js | JWT | Mongodb | Heroku* (Soon)
+    - [weather-app](https://github.com/mohamedsaaad/weather-app.git) - *Node.js | Express.js | Heroku*
+    - [MyNoteApp](https://github.com/mohamedsaaad/MyNoteApp.git) - *Java | XML | ROOM | Matrial Design | MVC*
+    - [NewsApp](https://github.com/mohamedsaaad/NewsApp.git) - *Java | Retrofit | XML | ROOM | Matrial Design | MVC*
 
 - ### Core Science:
+    - [Algorithms_FCI_Labs](https://github.com/mohamedsaaad/Algorithms_FCI_Labs.git) - *C++*
+    - [BackPropagation-NN (Genetic Algorithm)](https://github.com/mohamedsaaad/BackPropagation-NN-GA.git) - *Java*
+    - [Smooth Curve Fitting (Genetic Algorithm)](https://github.com/mohamedsaaad/SmoothCurveFitting-GenaticsAlgo.git) - *Java*
+    - [Knapsack (Genetic Algorithm)](https://github.com/mohamedsaaad/Knapsack-GA-approach.git) - *Java*
+    - [AutoFill_NLP](https://github.com/mohamedsaaad/AutoFill_NLP.git) - *python*
+    - [Sentiment_Classification_NLP](https://github.com/mohamedsaaad/Sentiment_Classification.git) - *Python*
+    - [Computer-Graphics-Project](https://github.com/mohamedsaaad/Computer-Graphics-Project.git) - *C++*
 
