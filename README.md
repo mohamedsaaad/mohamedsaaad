@@ -5,7 +5,7 @@
 # Hello there <img src="animated_wave.gif" width="32px">, I'm Saad 👦🏻💻
 
 ### 26 Years old Software Engineering and computer science enthusiast with a good knowledge of computer science fundamentals and web development process.
-### Passionate about building JavaScript Apps and solving problems with Java. 
+### Passionate about building Java Apps using springboot and solving problems with Java. 
 <br>
 <div align="center">
     <img src="https://media.giphy.com/media/PdNPGYMjpIjBhPesYm/giphy.gif" width="80%">
